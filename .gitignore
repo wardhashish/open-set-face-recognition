@@ -1,0 +1,19 @@
+# zipped copy of the helpers (the unzipped helpers/ folder is committed)
+A4_helpers.zip
+
+# data, checkpoints and run artefacts
+*.pt
+*.pth
+*.npz
+submission_token.json
+a4_work*/
+cmps364_a4*/
+scikit_learn_data/
+lfw_home/
+
+# Python / Jupyter / OS clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
